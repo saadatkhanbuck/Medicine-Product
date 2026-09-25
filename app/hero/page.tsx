@@ -61,7 +61,7 @@ export default function HeroSection() {
           {/* Circular Image */}
           <div className="relative h-[220px] w-[220px] sm:h-[260px] sm:w-[260px] md:h-[340px] md:w-[340px] lg:h-[360px] lg:w-[360px] rounded-full bg-white p-0 shadow-2xl transition duration-500 hover:scale-105 overflow-hidden">
             <Image
-              src="img\sharafat4.jpg"
+              src="/img/durani.jpg"
               alt="Sharafat"
               width={360}
               height={360}
