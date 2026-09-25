@@ -19,24 +19,18 @@ export default function HeroSection() {
           transition={{ duration: 1.2, ease: "easeOut" }}
           className="flex-1 flex flex-col items-start justify-center mt-16 lg:mt-0"
         >
-          <h1 className="text-4xl mt-10 lg:mt-40 md:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight mb-4">
-            <span className="text-[#B1D732] italic">Hikmat</span> کے قدرتی علاج
-            کے ساتھ
-          </h1>
-          <p className="text-lg md:text-xl text-gray-700 mb-8 max-w-xl">
-            ہمارے قدرتی اور مؤثر جڑی بوٹیوں کے علاج سے صحت مند زندگی کا آغاز
-            کریں۔ بس اپنے جسم اور دماغ کو صاف کریں، فطرت کی طاقت کے ساتھ!
-          </p>
+         <h1 className="text-4xl mt-10 lg:mt-40 md:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight mb-4"> Natural Healing with{" "} <span className="text-[#B1D732] italic">Hikmat</span> </h1>
+          <p className="text-lg md:text-xl text-gray-700 mb-8 max-w-xl"> Begin your journey toward a healthier life with natural and effective herbal treatments. Restore balance, cleanse your body and mind, and embrace the healing power of nature. </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="https://wa.me/923128004651"
+              href="https://wa.me/923247382029"
               className="px-6 py-3 rounded-full bg-[#B1D732] text-white font-semibold shadow-lg hover:scale-105 hover:bg-[#839e28] transition transform"
             >
               Contact With Me
               <FaWhatsapp size={25} className="inline-block ml-2" />
             </a>
             <a
-              href="tel:+923128004651"
+              href="tel:+923247382029"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-full border border-[#B1D732] text-[#B1D732] font-semibold hover:scale-105 hover:bg-[#839e28] hover:text-white transition transform"

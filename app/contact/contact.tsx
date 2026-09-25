@@ -38,7 +38,7 @@ export default function Contact() {
             className="relative"
           >
             <img
-              src="/img/dawakhana5.png"
+              src="/img/scan.jpg"
               alt="Hikmat Herbal"
               className="rounded-3xl shadow-2xl w-full h-auto lg:h-[800px] object-contain lg:object-cover"
             />
@@ -63,7 +63,7 @@ export default function Contact() {
                   <p className="text-gray-400 text-sm">
                     Only/ WhatsApp masseges
                   </p>
-                  <p className="text-xl font-semibold">+92 312 8004651</p>
+                  <p className="text-xl font-semibold">+92 324 7382029</p>
                 </div>
               </div>
 
@@ -96,7 +96,7 @@ export default function Contact() {
               />
 
               <a
-                href="https://wa.me/923128004651"
+                href="https://wa.me/923247382029"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block text-center bg-[#B1D732] text-black font-semibold py-4 rounded-xl shadow-lg hover:scale-105 transition transform"

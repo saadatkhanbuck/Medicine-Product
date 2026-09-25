@@ -43,7 +43,7 @@ export function NavbarDemo() {
               {" "}
               <div className="flex items-center space-x-2 text-sm">
                 <a
-                  href="https://wa.me/923128004651"
+                  href="https://wa.me/923247382029"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -64,18 +64,18 @@ export function NavbarDemo() {
                 </a>
 
                 <a
-                  href="https://wa.me/923128004651"
+                  href="https://wa.me/923247382029"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <p className="text-xs text-zinc-700">Connect With Us</p>
                   <p className="text-md font-semibold text-gray-900">
-                    (+92) 312 8004651
+                    (+92) 324 7382029
                   </p>
                 </a>
               </div>
             </NavbarButton>
-            <NavbarButton href="tel:+923128004651" variant="primary">
+            <NavbarButton href="tel:+923247382029" variant="primary">
               Join a Call
               <BiSolidPhoneCall size={22} className="inline-block ml-2" />
             </NavbarButton>
@@ -114,7 +114,7 @@ export function NavbarDemo() {
               >
                 <div className="flex items-center space-x-2 text-sm">
                   <a
-                    href="https://wa.me/923128004651"
+                    href="https://wa.me/923247382029"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -135,19 +135,19 @@ export function NavbarDemo() {
                   </a>
 
                   <a
-                    href="https://wa.me/923128004651"
+                    href="https://wa.me/923247382029"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     <p className="text-xs text-zinc-700">Connect With U</p>
                     <p className="text-md font-semibold text-gray-900">
-                      (+92) 312 8004651
+                      (+92) 324 7382029
                     </p>
                   </a>
                 </div>
               </NavbarButton>
               <NavbarButton
-                href="tel:+923128004651"
+                href="tel:+923247382029"
                 variant="primary"
                 className="w-full"
               >

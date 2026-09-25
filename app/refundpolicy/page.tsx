@@ -116,7 +116,7 @@ export default function ReturnRefundPolicy() {
             </h2>
             <p>For any return or refund queries, please contact us:</p>
             <p className="mt-2 font-medium text-[#B1D732]">
-              📞(+92) 312 8004651 <br />
+              📞(+92) 324 7382029 <br />
               📍 Suba Sindh, Pakistan
             </p>
           </div>
